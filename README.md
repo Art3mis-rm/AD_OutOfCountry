@@ -32,6 +32,7 @@ Adusers_Country_Total = COMPLETE list of employees logging in from outside US
 Adusers_Country_New = List of NEW users who are logging in from outside US (Compares with Adusers_Country_Total and outputs new entries)
 
 United Kingdom : GB
+
 Switzerland : CH
 
 
