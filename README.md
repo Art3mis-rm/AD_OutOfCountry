@@ -21,7 +21,8 @@ New-Item ./Adusers_Country_Old.csv -ItemType File
 
 7. Once all the above steps are executed, double click on the batch file (AD_OutOfCountry)
 
-Note: The names of the files and folder should NOT be changed
+Note: 1. The names of the files and folder should NOT be changed
+      2. Check the Screenshots FileStructure1.PNG and FileStructure2.PNG
 
 ----------------------------------------------------------------------------------------
 Additional Information
