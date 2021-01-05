@@ -22,6 +22,7 @@ New-Item ./Adusers_Country_Old.csv -ItemType File
 7. Once all the above steps are executed, double click on the batch file (AD_OutOfCountry)
 
 Note: 1. The names of the files and folder should NOT be changed
+      
       2. Check the Screenshots FileStructure1.PNG and FileStructure2.PNG
 
 ----------------------------------------------------------------------------------------
@@ -29,6 +30,7 @@ Additional Information
 ----------------------------------------------------------------------------------------
 
 Adusers_Country_Total = COMPLETE list of employees logging in from outside US
+
 Adusers_Country_New = List of NEW users who are logging in from outside US (Compares with Adusers_Country_Total and outputs new entries)
 
 United Kingdom : GB
