@@ -1,8 +1,6 @@
 # AD_OutOfCountry
 This script will retrieve the list of all users from the AD who are logging in from outside the USA. If scheduled to run weekly or monthly, this script will give you a list of new users who are logging in from outside the USA
 
-
-Note: Do not delete any files from this folder
 ----------------------------------------------------------------------------------------
 Usage:
 ----------------------------------------------------------------------------------------
@@ -17,3 +15,5 @@ Adusers_Country_New = List of NEW users who are logging in from outside US (Comp
 
 United Kingdom : GB
 Switzerland : CH
+
+Note: Do not delete any files from this folder
